@@ -19,7 +19,7 @@ Gitalk 是一个基于 GitHub Issue 和 Preact 开发的评论插件。
 
 [EN](readme.md) | 简体中文 | [繁體中文](readme-zh.md)
 
-## 在線示例
+## 在线示例
 
 [在线示例](https://gitalk.github.io)
 
